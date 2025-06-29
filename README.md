@@ -7,8 +7,8 @@ Python, Excel, NumPy, Matplotlib
 Automate buckling RF calculation for panel stress data from FE model.
 
 ### 📂 File Structure:
-- `reserve_factor.ipynb` – Main Python script
-- `data/panel_stress_output.xlsx` – Stress data input
+- `panel_buckling.ipynb` – Main Python script
+- `all_subcase_panel_buckling_calculations_python.xlsx` – Stress data input
 - `images/` – Result plots (RF vs geometry)
 
 ### ✅ Outcome:
